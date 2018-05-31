@@ -1,0 +1,13 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\TestTaskVSTO\TestTaskVSTO\bin\Debug\TestTaskVSTO.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TestTaskVSTO\TestTaskVSTO\bin\Debug\TestTaskVSTO.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TestTaskVSTO\TestTaskVSTO\bin\Debug\TestTaskVSTO.dll.manifest
+C:\Users\Admin\documents\visual studio 2017\Projects\TestTaskVSTO\TestTaskVSTO\bin\Debug\TestTaskVSTO.vsto
+C:\Users\Admin\documents\visual studio 2017\Projects\TestTaskVSTO\TestTaskVSTO\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TestTaskVSTO\TestTaskVSTO\obj\Debug\TestTaskVSTO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2017\Projects\TestTaskVSTO\TestTaskVSTO\obj\Debug\TestTaskVSTO.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\TestTaskVSTO\TestTaskVSTO\obj\Debug\TestTaskVSTO.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2017\Projects\TestTaskVSTO\TestTaskVSTO\obj\Debug\TestTaskVSTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\documents\visual studio 2017\Projects\TestTaskVSTO\TestTaskVSTO\obj\Debug\TestTaskVSTO.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TestTaskVSTO\TestTaskVSTO\obj\Debug\TestTaskVSTO.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TestTaskVSTO\TestTaskVSTO\bin\Debug\TestTaskVSTO.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TestTaskVSTO\TestTaskVSTO\obj\Debug\TestTaskVSTO.Ribbon1.resources
